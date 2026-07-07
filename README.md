@@ -19,8 +19,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnah-k&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amnah-k&theme=dracula&hide_border=true)<br/>
+<p align="center">
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=amnah-k&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    width="48%"
+    height="250"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=amnah-k&theme=dracula&hide_border=true"
+    width="48%"
+    height="250"
+  />
+</p>
 
 ---
 
