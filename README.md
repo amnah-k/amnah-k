@@ -22,7 +22,7 @@
 <p align="center">
   <img 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=amnah-k&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    width="48%"
+    width="41%"
     height="250"
   />
   <img 
